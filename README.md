@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @dmdx
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Duncan Dang
+<!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
+Bitbucket: https://dmdz.bitbucket.io/ and https://bitbucket.org/dmdz/
+Email: ddang7952@gmail.com
 
-<!---
-dmdx/dmdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
